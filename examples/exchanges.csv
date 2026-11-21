@@ -1,0 +1,6 @@
+arrival,exchange,requested,group,old_slot,new_slot,tickets,state,companion_approval
+2,U11,2026-10-25T09:12:00Z,G51,S1,S3,T1;T2,requested,P29
+2,U12,2026-10-25T09:18:00Z,G52,S1,S3,T3,requested,
+3,U11,2026-10-25T09:12:00Z,G51,S1,S3,T1;T2,claimed,P29
+4,U13,2026-10-25T09:22:00Z,G53,S2,S3,T4;T5,requested,
+6,U11,2026-10-25T09:12:00Z,G51,S1,S3,T1;T2,release_ack,P29

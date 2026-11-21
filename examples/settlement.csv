@@ -1,0 +1,5 @@
+arrival,settlement,day,site,receipt,kind,cents
+3,S900,2026-10-25,PARK,X11,accepted,2500
+3,S900,2026-10-25,PARK,X13,accepted,2500
+5,S901,2026-10-26,PARK,X14,correction_received,1200
+7,S902,2026-10-26,PARK,X14,correction_received,-1200

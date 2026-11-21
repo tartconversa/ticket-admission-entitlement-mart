@@ -1,0 +1,7 @@
+arrival,stall,site,slot,serial,state
+1,ENTRY-A,PARK,S1,91,complete
+1,ENTRY-B,PARK,S1,90,complete
+2,ENTRY-A,PARK,S2,92,complete
+3,ENTRY-B,PARK,S2,92,partial
+4,ENTRY-B,PARK,S1,91,complete
+5,ENTRY-B,PARK,S2,93,complete
